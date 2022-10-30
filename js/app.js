@@ -1,0 +1,1 @@
+$(".img-contacts").slick({slidesToScroll:1,autoplay:!0,autoplaySpeed:2500,arrows:!1});
